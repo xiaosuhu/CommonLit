@@ -1,0 +1,253 @@
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: True
+Max Length: 1024
+Num Epochs: 5
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: True
+Max Length: 1024
+Num Epochs: 5
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: True
+Freezing: True
+Max Length: 1024
+Max Length: 1024
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: True
+Freezing: True
+Freezing: True
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: True
+Freezing: True
+Freezing: True
+Freezing: True
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+
+
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+
+
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: True
+Freezing: True
+Freezing: True
+Freezing: True
+Freezing: True
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+
+
+
+
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+
+
+
+
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: True
+Freezing: True
+Freezing: True
+Freezing: True
+Freezing: True
+Freezing: True
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Max Length: 1024
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+
+
+
+
+
+
+
+
+=========================== Model name :deberta-v3-large ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: True
+Max Length: 1024
+Num Epochs: 5
+
+
