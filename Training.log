@@ -446,3 +446,228 @@ Num Epochs: 1
 
 ========== fold: 0 training ==========
 Number of batches in Train 2554 and valid 1029 dataset
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 5
+
+
+=========================== Model name :./deberta-base ===========================: 
+=========================== Model name :./deberta-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+Num Epochs: 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+
+
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+Epoch 0 Training Loss 0.0139
+ Training complete in 0h 2m 0s
+
+
