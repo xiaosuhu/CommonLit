@@ -671,3 +671,757 @@ Epoch 0 Training Loss 0.0139
  Training complete in 0h 2m 0s
 
 
+=========================== Model name :./Models/deberta-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+=========================== Model name :./Models/deberta-v3-base ===========================: 
+=========================== Model name :./Models/deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+=========================== Model name :./Models/deberta-v3-base ===========================: 
+=========================== Model name :./Models/deberta-v3-base ===========================: 
+=========================== Model name :./Models/deberta-v3-base ===========================: 
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Number of batches in Train 2554 and valid 1029 dataset
+Number of batches in Train 2554 and valid 1029 dataset
+Number of batches in Train 2554 and valid 1029 dataset
+Validation Loss Improved (inf ---> 0.16188038510393113)
+Validation Loss Improved (inf ---> 0.16188038510393113)
+Validation Loss Improved (inf ---> 0.16188038510393113)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0134 Validation Loss 0.1619
+Epoch 0 Training Loss 0.0134 Validation Loss 0.1619
+Epoch 0 Training Loss 0.0134 Validation Loss 0.1619
+ Training complete in 0h 2m 30s
+ Training complete in 0h 2m 30s
+ Training complete in 0h 2m 30s
+ Best Loss: 0.1619
+ Best Loss: 0.1619
+ Best Loss: 0.1619
+ oof for fold 0 ---> {'mcrmse_score': 0.5719428, 'Content_score': 0.48106688, 'Wording_score': 0.6628188}
+ oof for fold 0 ---> {'mcrmse_score': 0.5719428, 'Content_score': 0.48106688, 'Wording_score': 0.6628188}
+ oof for fold 0 ---> {'mcrmse_score': 0.5719428, 'Content_score': 0.48106688, 'Wording_score': 0.6628188}
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: 1 training ==========
+========== fold: 1 training ==========
+========== fold: 1 training ==========
+Number of batches in Train 2578 and valid 1005 dataset
+Number of batches in Train 2578 and valid 1005 dataset
+Number of batches in Train 2578 and valid 1005 dataset
+Validation Loss Improved (inf ---> 0.23060588829934175)
+Validation Loss Improved (inf ---> 0.23060588829934175)
+Validation Loss Improved (inf ---> 0.23060588829934175)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0127 Validation Loss 0.2306
+Epoch 0 Training Loss 0.0127 Validation Loss 0.2306
+Epoch 0 Training Loss 0.0127 Validation Loss 0.2306
+ Training complete in 0h 2m 27s
+ Training complete in 0h 2m 27s
+ Training complete in 0h 2m 27s
+ Best Loss: 0.2306
+ Best Loss: 0.2306
+ Best Loss: 0.2306
+ oof for fold 1 ---> {'mcrmse_score': 0.71448183, 'Content_score': 0.56981266, 'Wording_score': 0.85915095}
+ oof for fold 1 ---> {'mcrmse_score': 0.71448183, 'Content_score': 0.56981266, 'Wording_score': 0.85915095}
+ oof for fold 1 ---> {'mcrmse_score': 0.71448183, 'Content_score': 0.56981266, 'Wording_score': 0.85915095}
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: 2 training ==========
+========== fold: 2 training ==========
+========== fold: 2 training ==========
+Number of batches in Train 2585 and valid 998 dataset
+Number of batches in Train 2585 and valid 998 dataset
+Number of batches in Train 2585 and valid 998 dataset
+Validation Loss Improved (inf ---> 0.14324415043296893)
+Validation Loss Improved (inf ---> 0.14324415043296893)
+Validation Loss Improved (inf ---> 0.14324415043296893)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0135 Validation Loss 0.1432
+Epoch 0 Training Loss 0.0135 Validation Loss 0.1432
+Epoch 0 Training Loss 0.0135 Validation Loss 0.1432
+ Training complete in 0h 2m 31s
+ Training complete in 0h 2m 31s
+ Training complete in 0h 2m 31s
+ Best Loss: 0.1432
+ Best Loss: 0.1432
+ Best Loss: 0.1432
+ oof for fold 2 ---> {'mcrmse_score': 0.5404335, 'Content_score': 0.47582233, 'Wording_score': 0.60504466}
+ oof for fold 2 ---> {'mcrmse_score': 0.5404335, 'Content_score': 0.47582233, 'Wording_score': 0.60504466}
+ oof for fold 2 ---> {'mcrmse_score': 0.5404335, 'Content_score': 0.47582233, 'Wording_score': 0.60504466}
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: 3 training ==========
+========== fold: 3 training ==========
+========== fold: 3 training ==========
+Number of batches in Train 3031 and valid 552 dataset
+Number of batches in Train 3031 and valid 552 dataset
+Number of batches in Train 3031 and valid 552 dataset
+Validation Loss Improved (inf ---> 0.33163096439870154)
+Validation Loss Improved (inf ---> 0.33163096439870154)
+Validation Loss Improved (inf ---> 0.33163096439870154)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0119 Validation Loss 0.3316
+Epoch 0 Training Loss 0.0119 Validation Loss 0.3316
+Epoch 0 Training Loss 0.0119 Validation Loss 0.3316
+ Training complete in 0h 2m 48s
+ Training complete in 0h 2m 48s
+ Training complete in 0h 2m 48s
+ Best Loss: 0.3316
+ Best Loss: 0.3316
+ Best Loss: 0.3316
+ oof for fold 3 ---> {'mcrmse_score': 0.8615153, 'Content_score': 0.7581612, 'Wording_score': 0.9648693}
+ oof for fold 3 ---> {'mcrmse_score': 0.8615153, 'Content_score': 0.7581612, 'Wording_score': 0.9648693}
+ oof for fold 3 ---> {'mcrmse_score': 0.8615153, 'Content_score': 0.7581612, 'Wording_score': 0.9648693}
+
+
+
+
+
+
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+=========================== Model name :deberta-v3-base ===========================: 
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+Epoch 0 Training Loss 0.0115
+ Training complete in 0h 7m 9s
+
+
+=========================== Model name :./Models/bert-base-uncased ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: 0 training ==========
+Number of batches in Train 2554 and valid 1029 dataset
+=========================== Model name :./Models/bert-base-uncased ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: 0 training ==========
+Number of batches in Train 2554 and valid 1029 dataset
+Validation Loss Improved (inf ---> 0.16956839916750419)
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0147 Validation Loss 0.1696
+ Training complete in 0h 1m 22s
+ Best Loss: 0.1696
+ oof for fold 0 ---> {'mcrmse_score': 0.5993893, 'Content_score': 0.5537833, 'Wording_score': 0.6449953}
+
+
+
+
+========== fold: 1 training ==========
+Number of batches in Train 2578 and valid 1005 dataset
+Validation Loss Improved (inf ---> 0.22360942393148225)
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0123 Validation Loss 0.2236
+ Training complete in 0h 1m 20s
+ Best Loss: 0.2236
+ oof for fold 1 ---> {'mcrmse_score': 0.69700193, 'Content_score': 0.54208773, 'Wording_score': 0.8519162}
+
+
+
+
+========== fold: 2 training ==========
+Number of batches in Train 2585 and valid 998 dataset
+Validation Loss Improved (inf ---> 0.16481851670554631)
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0144 Validation Loss 0.1648
+ Training complete in 0h 1m 22s
+ Best Loss: 0.1648
+ oof for fold 2 ---> {'mcrmse_score': 0.58740395, 'Content_score': 0.47967947, 'Wording_score': 0.69512844}
+
+
+
+
+========== fold: 3 training ==========
+Number of batches in Train 3031 and valid 552 dataset
+Validation Loss Improved (inf ---> 0.2486495860224946)
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.014 Validation Loss 0.2486
+ Training complete in 0h 1m 33s
+ Best Loss: 0.2486
+ oof for fold 3 ---> {'mcrmse_score': 0.734313, 'Content_score': 0.6034073, 'Wording_score': 0.86521864}
+
+
+=========================== Model name :./Models/bert-base-uncased ===========================: 
+=========================== Model name :./Models/bert-base-uncased ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Number of batches in Train 2554 and valid 1029 dataset
+Number of batches in Train 2554 and valid 1029 dataset
+Validation Loss Improved (inf ---> 0.15966743686259985)
+Validation Loss Improved (inf ---> 0.15966743686259985)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0149 Validation Loss 0.1597
+Epoch 0 Training Loss 0.0149 Validation Loss 0.1597
+ Training complete in 0h 3m 41s
+ Training complete in 0h 3m 41s
+ Best Loss: 0.1597
+ Best Loss: 0.1597
+ oof for fold 0 ---> {'mcrmse_score': 0.5809659, 'Content_score': 0.52968985, 'Wording_score': 0.6322419}
+ oof for fold 0 ---> {'mcrmse_score': 0.5809659, 'Content_score': 0.52968985, 'Wording_score': 0.6322419}
+
+
+
+
+
+
+
+
+========== fold: 1 training ==========
+========== fold: 1 training ==========
+Number of batches in Train 2578 and valid 1005 dataset
+Number of batches in Train 2578 and valid 1005 dataset
+Validation Loss Improved (inf ---> 0.2347616491862005)
+Validation Loss Improved (inf ---> 0.2347616491862005)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0122 Validation Loss 0.2348
+Epoch 0 Training Loss 0.0122 Validation Loss 0.2348
+ Training complete in 0h 3m 43s
+ Training complete in 0h 3m 43s
+ Best Loss: 0.2348
+ Best Loss: 0.2348
+ oof for fold 1 ---> {'mcrmse_score': 0.71789074, 'Content_score': 0.5611116, 'Wording_score': 0.87466985}
+ oof for fold 1 ---> {'mcrmse_score': 0.71789074, 'Content_score': 0.5611116, 'Wording_score': 0.87466985}
+
+
+
+
+
+
+
+
+========== fold: 2 training ==========
+========== fold: 2 training ==========
+Number of batches in Train 2585 and valid 998 dataset
+Number of batches in Train 2585 and valid 998 dataset
+Validation Loss Improved (inf ---> 0.16465216633625318)
+Validation Loss Improved (inf ---> 0.16465216633625318)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0146 Validation Loss 0.1647
+Epoch 0 Training Loss 0.0146 Validation Loss 0.1647
+ Training complete in 0h 3m 43s
+ Training complete in 0h 3m 43s
+ Best Loss: 0.1647
+ Best Loss: 0.1647
+ oof for fold 2 ---> {'mcrmse_score': 0.5870402, 'Content_score': 0.48461512, 'Wording_score': 0.6894653}
+ oof for fold 2 ---> {'mcrmse_score': 0.5870402, 'Content_score': 0.48461512, 'Wording_score': 0.6894653}
+
+
+
+
+
+
+
+
+========== fold: 3 training ==========
+========== fold: 3 training ==========
+Number of batches in Train 3031 and valid 552 dataset
+Number of batches in Train 3031 and valid 552 dataset
+Validation Loss Improved (inf ---> 0.23872701462750018)
+Validation Loss Improved (inf ---> 0.23872701462750018)
+Weights and oof values saved for epochs-0 .....
+Weights and oof values saved for epochs-0 .....
+Epoch 0 Training Loss 0.0139 Validation Loss 0.2387
+Epoch 0 Training Loss 0.0139 Validation Loss 0.2387
+ Training complete in 0h 4m 5s
+ Training complete in 0h 4m 5s
+ Best Loss: 0.2387
+ Best Loss: 0.2387
+ oof for fold 3 ---> {'mcrmse_score': 0.71969247, 'Content_score': 0.6077866, 'Wording_score': 0.8315983}
+ oof for fold 3 ---> {'mcrmse_score': 0.71969247, 'Content_score': 0.6077866, 'Wording_score': 0.8315983}
+
+
+
+
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+Epoch 0 Training Loss 0.0116
+ Training complete in 0h 3m 10s
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: ALL training ==========
+Epoch 0 Training Loss 0.0116
+ Training complete in 0h 3m 5s
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+=========================== Model name :./deberta-v3-base ===========================: 
+=========================== Model name :./deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+========== fold: ALL training ==========
+========== fold: ALL training ==========
+Epoch 0 Training Loss 0.0114
+Epoch 0 Training Loss 0.0114
+ Training complete in 0h 3m 8s
+ Training complete in 0h 3m 8s
+
+
+
+
