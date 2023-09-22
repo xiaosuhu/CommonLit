@@ -1,8 +1,12 @@
-Version,CV_MCRMSE,Public LB,CONTENT,WORDING,Note
-Debertav3+LGBM (no autocorrect),0.52218,0.454,0.45103,0.59333,
-Deberta Commlit v5,0.59,0.53,0.52,0.66,Training with only text but inf using pq + text 5 epochs
-Deberta Commlit v6,0.6,0.532,0.52,0.69,Training with only text but inf using pq + text 20 epochs
-Deberta Commlit v7,0.6,0.521,0.52,0.69,Training with only text but inf using text 20 trials
-Deberta Commlit v8,0.59,0.512,0.52,0.66,Training with only text but inf using text 5 epochs
-Deberta Commlit v9,0.6,0.507,0.51,0.69,Original version with 5 epochs pq + text
-Deberta Commlit v10 ,0.628,,0.498,0.758,Training with pt + pq + text 5 epochs
+Version,CV_MCRMSE,Public LB,CONTENT,WORDING,Note,Check
+Debertav3+LGBM (no autocorrect),0.522,0.454,0.451,0.593,,X
+Deberta Commlit v5,0.59,0.53,0.52,0.66,Training with only text but inf using pq + text 5 epochs,
+Deberta Commlit v6,0.6,0.532,0.52,0.69,Training with only text but inf using pq + text 20 epochs,
+Deberta Commlit v7,0.6,0.521,0.52,0.69,Training with only text 20 trials,
+Deberta Commlit v8,0.59,0.512,0.52,0.66,Training with only text 5 epochs,X
+Deberta Commlit v9,0.6,0.507,0.51,0.69,Original version with 5 epochs pq + text,
+Deberta Commlit v10 ,0.628,0.511,0.498,0.758,Training with pt + pq + text 5 epochs,
+Deberta Commlit v11,0.61,0.501,0.54,0.68,Training with only text 3 epochs,
+Deberta Commlit v12,0.64,0.529,0.53,0.75,Training with only text 1 epochs,
+Deberta Commlit v13,0.572,0.518,0.479,0.665,Training with only text 10 epochs,X
+Deberta Commlit v14,0.57,,0.491,0.65,Training with pt + pq + text 10 epochs,

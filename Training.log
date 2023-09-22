@@ -1425,3 +1425,183 @@ Epoch 0 Training Loss 0.0114
 
 
 
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 3
+
+
+=========================== Model name :deberta-v3-base ===========================: 
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 3
+Num Epochs: 3
+
+
+
+
+
+
+
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Number of batches in Train 1277 and valid 515 dataset
+Number of batches in Train 1277 and valid 515 dataset
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 3
+
+
+
+
+========== fold: 0 training ==========
+Number of batches in Train 1277 and valid 515 dataset
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 3
+
+
+
+
+========== fold: 0 training ==========
+Number of batches in Train 1277 and valid 515 dataset
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 3
+
+
+=========================== Model name :deberta-v3-base ===========================: 
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 4 with gradient Accumukation 16 
+batch_size: 4 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+=========================== Model name :deberta-v3-base ===========================: 
+=========================== Model name :deberta-v3-base ===========================: 
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+
+
+
+
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Pooling name: GemText 
+Pooling name: GemText 
+Freezing: False
+Freezing: False
+Freezing: False
+Max Length: 512
+Max Length: 512
+Max Length: 512
+Num Epochs: 1
+Num Epochs: 1
+Num Epochs: 1
+
+
+
+
+
+
+
+
+
+
+
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: 0 training ==========
+=========================== Model name :deberta-v3-base ===========================: 
+
+
+Scheduler: CosineAnnealingLR
+batch_size: 2 with gradient Accumukation 16 
+Pooling name: GemText 
+Freezing: False
+Max Length: 512
+Num Epochs: 1
+
+
+
+
+========== fold: 0 training ==========
