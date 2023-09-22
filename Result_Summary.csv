@@ -9,4 +9,4 @@ Deberta Commlit v10 ,0.628,0.511,0.498,0.758,Training with pt + pq + text 5 epoc
 Deberta Commlit v11,0.61,0.501,0.54,0.68,Training with only text 3 epochs,
 Deberta Commlit v12,0.64,0.529,0.53,0.75,Training with only text 1 epochs,
 Deberta Commlit v13,0.572,0.518,0.479,0.665,Training with only text 10 epochs,X
-Deberta Commlit v14,0.57,,0.491,0.65,Training with pt + pq + text 10 epochs,
+Deberta Commlit v14,0.57,0.508,0.491,0.65,Training with pt + pq + text 10 epochs,
