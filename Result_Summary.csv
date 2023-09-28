@@ -10,8 +10,10 @@ Deberta Commlit v11,0.61,0.501,0.54,0.68,Training with only text 3 epochs,
 Deberta Commlit v12,0.64,0.529,0.53,0.75,Training with only text 1 epochs,
 Deberta Commlit v13,0.572,0.518,0.479,0.665,Training with only text 10 epochs,X
 Deberta Commlit v14,0.57,0.508,0.491,0.65,Training with pt + pq + text 10 epochs,
-Deberta + LGBM V1,0.542,0.48,0.467,0.618,Training with pt + pq + text 10 epochs,X
-Deberta + LGBM V2 (autocorrect),0.534,0.479,0.47,0.596,"Training with pt + pq + text 10 epochs, accidentally used NOT corrected text for testing set",
-Deberta + LGBM V2 (autocorrect),0.534,0.479,0.47,0.596,Training with pt + pq + text 10 epochs,
-Deberta + LGBM V2 (autocorrect),0.550,,0.478,0.622,Training with pt + pq + text 5 epochs,
-Deberta + LGBM V2 (autocorrect),0.531,0.476,0.473,0.590,Training with pt + pq + text 10 epochs,
+Deberta + LGBM V1 v5,0.542,0.48,0.467,0.618,Training with pt + pq + text 10 epochs,X
+Deberta + LGBM V2 (autocorrect) v5,0.534,0.479,0.47,0.596,"Training with pt + pq + text 10 epochs, accidentally used NOT corrected text for testing set",
+Deberta + LGBM V2 (autocorrect) v5,0.534,0.479,0.47,0.596,Training with pt + pq + text 10 epochs,
+Deberta + LGBM V2 (autocorrect) v7,0.55,,0.478,0.622,Training with pt + pq + text 5 epochs,
+Deberta + LGBM V2 (autocorrect) v6,0.531,0.476,0.473,0.59,Training with pt + pq + text 10 epochs,
+Deberta Large + LGBM V2 (autocorrect) v8,0.531,,0.444,0.618,"Training with pt + pq + text 5 epochs, freezing top half layers",
+Deberta Large + LGBM V2 (autocorrect) v9,,,,,"Training with pt + pq + text 10 epochs, freezing top half layers",
