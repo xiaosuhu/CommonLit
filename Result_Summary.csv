@@ -15,5 +15,6 @@ Deberta + LGBM V2 (autocorrect) v5,0.534,0.479,0.47,0.596,"Training with pt + pq
 Deberta + LGBM V2 (autocorrect) v5,0.534,0.479,0.47,0.596,Training with pt + pq + text 10 epochs,
 Deberta + LGBM V2 (autocorrect) v7,0.55,,0.478,0.622,Training with pt + pq + text 5 epochs,
 Deberta + LGBM V2 (autocorrect) v6,0.531,0.476,0.473,0.59,Training with pt + pq + text 10 epochs,
-Deberta Large + LGBM V2 (autocorrect) v8,0.531,,0.444,0.618,"Training with pt + pq + text 5 epochs, freezing top half layers",
-Deberta Large + LGBM V2 (autocorrect) v9,,,,,"Training with pt + pq + text 10 epochs, freezing top half layers",
+Deberta Large + LGBM V2 (autocorrect) v8,0.531,0.47,0.444,0.618,"Training with pt + pq + text 5 epochs, freezing top half layers",
+Deberta Large + LGBM V2 (autocorrect) v9,0.529,0.455,0.452,0.601,"Training with pt + pq + text 10 epochs, freezing top half layers",
+Deberta Large + LGBM V2 (autocorrect) v10,0.544,0.471,0.461,0.628,"Training with pt + pq + text 10 epochs, no freezing layers",
