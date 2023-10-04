@@ -22,4 +22,4 @@ Deberta + LGBM V1 v6,0.571,na,0.498,0.644,"Training with pt + pq + text 10 epoch
 Deberta Large + LGBM V2 (autocorrect) v11,0.542,na,0.465,0.619,"Training with pt + pq + text 10 epochs, freezing top quarter layers (6)",
 Deberta base + LGBM V3 (autocorrect) v1,0.523,0.517,0.461,0.586,"Training with pt + pq + text 15 epochs, no freezing layer, seems overfitting",
 Notebook CommonLit-ESS lgbm+autocorrect+DeBERTa V3 ( 1437c7 | Version 1,0.511,0.446,0.444,0.579,"Other people's notebook for validation",
-Deberta base + LGBM V4 autocorrect enhanced feat, 0.519, , 0.463, 0.576, Trained using enhanced feat with the only lgbm 0.47 code
+Deberta base + LGBM V4 autocorrect enhanced feat, 0.519, , 0.463, 0.576, "Trained using enhanced feat with the only lgbm 0.47 code",
