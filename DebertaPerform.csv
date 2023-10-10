@@ -8,3 +8,8 @@ Deberta base,0.576,0.501,0.651,0,4,Gem,15
 Deberta base,0.571,0.506,0.637,0,4,Gem,10
 Deberta large,0.554,0.458,0.649,12,4,Mean,5
 Deberta large,0.592,0.483,0.702,12,4,Mean Max,5
+Deberta large,0.564,0.47,0.659,12,4,Mean,10
+Deberta large,0.584,0.487,0.682,12,4,Max,5
+Deberta base,0.557,0.483,0.632,0,4,Mean,10
+Deberta base,0.581,0.50,0.662,0,4,Mean,15
+Deberta large,,,,12,4,Mean,1
