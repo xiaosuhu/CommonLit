@@ -32,3 +32,4 @@ Deberta large + LGBM 4 fold autocorrect enhanced feat Mean Pooling,0.52,0.445,0.
 Deberta large + LGBM 4 fold autocorrect enhanced feat MeanMax Pooling,0.523,0.444,0.441,0.604,5epoch ,
 Deberta base + LGBM 4 fold autocorrect enhanced feat Mean Pooling,0.503,0.456,0.436,0.604,10 epochs,
 Deberta base + LGBM 4 fold autocorrect enhanced feat Mean Pooling,0.497,0.473,0.432,0.561,15epochs,
+Deberta base + LGBM 4 fold autocorrect enhanced feat Mean Pooling,0.527,0.455,0.458,0.595,1 epoch,
